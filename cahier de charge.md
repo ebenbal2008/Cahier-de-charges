@@ -159,6 +159,156 @@ _(Martine)_
 
 13. Maquettes / Interfaces
 _(Ben et Divine Ides)_
+                 MAQUETTE GESTION DE NOTES APPLICATION ( NOTE VISION)
 
+NOTRE APPLICATION EST ADAPTABLE POUR TOUTES LES ECOLES ET UNIVERSITES...... NOUS ALLONS PRENDRE POUR REPERE DE LA MAQUETTE L'UNIVERSITE DE YAOUNDE 1.
+
+      1.  DESIGN DE SYSTEME DE BASE
+
+palettes de couleurs : Cette partie donne juste les couleurs des differnts objets sur l'ecran
+
+   ici lorsque l'utilisateur passr d'un ecran a un autre il doit cliquer sur un bouton bleue en bas a droite.
+
+            ecran d'acceuil (pour le proffesseur et les etudiants ): est en fond blanc et explication en noir;
+
+            la page login ( prof et etudiant ) est en fond blanc avec un rectangle au centre ou taper le matricule ou code;
+
+            information de l'etudiant ( etudiant ) : un tableau a bordure noir avec ecriture noir le tout en fond blanc;
+
+            choix de la faculte ( professeur ): Faculte ecrit en rouge et les differents choix en noir;
+
+            choix du departement ( professeur ) : Departement ecrit en rouge et les choix en noir
+
+            choix du niveau (professeur ): une table constitues des differents niveau du departement
+
+            nom et UE informations ( professeur) en noir et blanc
+
+            notes ( professeur ):le prof saisie et la note et si elle est inferieur a 50 elle est en rouge sinon en vert.
+
+     2.   LES ETAPES DES ECRANS
+
+            La structure des ecrans (ecrans principaux)
+
+Ecran Élève: Ecran d'acceuil ~ logins ~ info et note des différents UE (CC,SN).
+Ecran Professeur: Ecran d'acceuil ~ logins ~ facultés ~ département ~ niveau ~ nom de l'UE ~ et note d'étudiant.
+
+>>>Les états de l'ecrans:
+
+   # Pour les Étudiants:
+
+   .  Ecran d'acceuil: Description de l'application.
+
+Image
+
+    . Connexions: Saisie du matricule.
+
+Image
+
+    .  Information et note des étudiants:
+
+L'information est écris au dessus page .
+
+Image
+
+   #  Pour les Professeurs:
+    . Ecrans d'acceuil: Description de l'application.
+
+Image
+
+    .  Logins: Saisie du code.
+
+Image
+
+    . Les Facultés.
+
+Image
+
+    .  Département.
+
+Image Image
+
+    . Niveau.
+
+Image Image
+
+    .  Noms et UE du professeur.
+
+Image
+
+    . Note de l’étudiant.
+
+Image
+
+    . Message de verification
+
+Quand le professeur finis de les notes des étudiants, l'application ;
+
+    Indiquer au-dessus l'UE et noms du professeur.
+
+    Les noms et les notes de chaque étudiant pour chiffre en chiffrement si récidive l’étudiant as ou ar échoue une UE.
+
+    Voir si l’étudiant a été admis ou vas reprendre l'UE.
+
+    ### VERT : Si l’étudiant a plus de 50 / 100
+
+    ### ROUGE : Si l’étudiant a moins de 50 /100
+
+l'entete de la page suivante << les notes des etudiants de la filiere ........ sont
+et on affiche le tableau qui aura pour premiere ligne noms prenoms, UE et notes en 3 colonne >>
+ebenbal2008
+ebenbal2008 commented 6 hours ago
+ebenbal2008
+6 hours ago · edited by ebenbal2008
+Member
+
+    La Structure des Ecrans (ecrans principaux)
+
+    Ecran Élève: Ecran d'acceuil ~ logins ~ info et note des différent UE (CC,SN).
+    Ecran Professeur: Ecran d'acceuil ~ logins ~ facultés ~ département ~ niveau ~ nom de l'UE ~ et note d’étudiant.
+
+2.### Les états de l'ecrans:
+
+        Pour les Étudiants:
+
+        Ecran d'acceuil: Description de l'application.
+
+        Logins: Saisie du matricule.
+
+        Information et note des étudiants:
+
+    L'information est écris au dessus de la page .
+    Les notes des étudiants seront illustrer sur un tableaux .
+
+        ### Pour les Professeurs:
+        Ecrans d'acceuil: Description de l'application.
+        Logins: Saisie du code.
+        Facultés.
+        Département.
+        Niveau.
+        Noms et UE du professeur.
+        Note de l’étudiant.
+
+    **Structure du Projet Maquette**
+
+        Le design du système: Un système a fond bleu violacée.
+
+        Wire frame: Garder les version de bas fidélités pour les références.
+        -En haut: Barre de titre avec le nom de l’application et un bouton de recherche.
+
+        Milieu: Liste des notes, avec le titre et un aperçu du contenue de chaque note.
+
+        En bas: Barre de navigation avec des icônes pour ; les notes(retour a la liste des notes), nouveau(crée une nouvelle note), paramètres(gérer les options de l'application).
+
+        Maquette Desktop: Quand l'utilisateur na pas l’application, il pourras se connecter en utilisant la version web qui serras aussi gratuite et efficace.
+
+        Maquette mobile: L'application sera disponible pour les systèmes comme (IOS, ANDROID, UXX, MAC, WINDOWS, LINUX).
+
+NOTE DE L’ÉTUDIANT:
+
+Les notes des étudiants serons illustrer ci-dessous;
+NOMS DU PROFESSEUR
+NUMÉRO DE L'UE
+
+Sans nom 1.ods
 
 
