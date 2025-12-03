@@ -1,4 +1,4 @@
-*APPLICATION DE GESTION DE NOTE*
+APPLICATION DE GESTION DE NOTE
 
 Version:1.0.0
 
@@ -130,7 +130,5 @@ _(Suzanne)_
 _(Martine)_
 
 13. Maquettes / Interfaces
-_(Ben et Divine Ides)_
-
-
+_(Eben et Divine Ides)_
 
